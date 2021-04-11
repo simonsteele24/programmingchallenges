@@ -1,2 +1,0 @@
-C:\Users\simon.steele\Desktop\MasterRepos\GPRO-202101SP-Networking-Student\GPRO Net SDK\lib\x64\v142\Debug\gpro-net.pdb
-C:\Users\simon.steele\Desktop\MasterRepos\GPRO-202101SP-Networking-Student\GPRO Net SDK\project\VisualStudio\gpro-net\build\x64\v142\Debug\gpro-net.pdb
